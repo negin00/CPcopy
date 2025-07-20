@@ -10,9 +10,9 @@ Students should use the latest version of the course slides, _i.e._, current sem
 ### Main class
 
  - Lecture 2: Structured Programming and Algorithm Design ([:fontawesome-solid-file-pdf: PDF](spring2025/lecture02/Lecture_02_Structured_Programming_and_Algorithm_Design.pdf){target="_blank"} | [:material-file-code-outline: Code Snippets](spring2025/lecture02/code_snippets/index.md){target="_blank"})
- - Lecture 3: 
+ - Lecture 3: C Programming Basics ([:material-file-code-outline: Code Snippets](spring2025/lecture03/code_snippets/index.md){target="_blank"})
 
-To be completed.
+
 
 
 
